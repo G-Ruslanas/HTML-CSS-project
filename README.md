@@ -7,4 +7,4 @@ Other important URLs:
 1) http://localhost/website/about.html
 2) http://localhost/website/contact.html
 # DATABASE
-For this project is used MySQL database: http://localhost/phpmyadmin
+For this project was used MySQL database: http://localhost/phpmyadmin
